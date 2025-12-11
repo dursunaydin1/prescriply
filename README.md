@@ -21,8 +21,6 @@ Prescriply is a modern, responsive web application designed to streamline prescr
 
 # Prescriply - Doctor Appointment Booking System
 
-![Prescriply Demo](./src/assets/screen.gif)
-
 ## 📦 Installation & Setup
 
 1.  **Clone the repository** (if applicable) or navigate to the project folder.
