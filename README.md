@@ -1,3 +1,7 @@
+# Prescriply - Doctor Appointment Booking System
+
+![Prescriply Demo](src/assets/screen.gif)
+
 Prescriply is a modern, responsive web application designed to streamline prescription management and facilitate doctor appointment bookings. Built with **React**, **Vite**, and **Tailwind CSS**, it offers a premium user interface for patients to browse doctors, manage appointments, and view their profiles.
 
 > **Note:** This project is currently a **Frontend Prototype**. Authentication and data storage are simulated using `Context API` and `localStorage`.
@@ -18,8 +22,6 @@ Prescriply is a modern, responsive web application designed to streamline prescr
 - **Routing**: React Router DOM
 - **State Management**: React Context API
 - **Icons/Assets**: Custom SVG assets and images
-
-# Prescriply - Doctor Appointment Booking System
 
 ## 📦 Installation & Setup
 
